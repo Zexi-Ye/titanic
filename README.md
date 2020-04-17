@@ -17,7 +17,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
 </blockquote>
 
-The goal of the project is to develop a wide array of machine learning models that make prediction regarding whether a passenger would survive or not based upon engineered features.
+The goal of the project is, therefore, to develop a wide array of machine learning models that make prediction regarding whether a passenger would survive or not based upon engineered features.
 
 ## Repo Structure
 
